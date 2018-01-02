@@ -1,0 +1,220 @@
+------------------Shawn Banish 1501 Assignment 2 Results----------------------------
+
+File: all.tar
+- Original File Size: 2.96 MB
+- LZW: 1.76 MB
+- MyLZW (Do Nothing): 1.70 MB
+- MyLZW (Reset): 1.12 MB
+- MyLZW (Monitor): 1.70 MB
+- Compression App: 958 KB
+- Compression Ratio (LZW): 1.68
+- Compression Ratio (Do Nothing): 1.74
+- Compression Ratio (Reset): 2.64
+- Compression Ratio (Monitor): 1.74
+- Compression Ratio App: 3.09
+
+-----------------------------------------------------------------------------------------------
+
+File: assig2.doc
+- Original File Size: 85 KB
+- LZW: 72.8 KB
+- MyLZW (Do Nothing): 39.1 KB
+- MyLZW (Reset): 39.1 KB
+- MyLZW (Monitor): 39.1 KB
+- Compression App: 23 KB
+- Compression Ratio (LZW): 1.17
+- Compression Ratio (Do Nothing): 1.86
+- Compression Ratio (Reset): 1.86
+- Compression Ratio (Monitor):1.86
+- Compression Ratio App: 3.70
+
+-----------------------------------------------------------------------------------------------
+
+
+File: bmps.tar
+- Original File Size: 1.05 MB
+- LZW: 903 KB
+- MyLZW (Do Nothing): 79 KB
+- MyLZW (Reset): 79 KB
+- MyLZW (Monitor): 79 KB
+- Compression App: 63 KB
+- Compression Ratio (LZW): 1.12
+- Compression Ratio (Do Nothing): 12.72
+- Compression Ratio (Reset): 12.72
+- Compression Ratio (Monitor): 12.72
+- Compression Ratio App: 16.67
+
+-----------------------------------------------------------------------------------------------
+
+
+File: code.txt
+- Original File Size: 70.6 KB
+- LZW: 30.2 KB
+- MyLZW (Do Nothing): 23.9 KB
+- MyLZW (Reset): 23.9 KB
+- MyLZW (Monitor): 23.9 KB
+- Compression App: 16 KB
+- Compression Ratio (LZW): 2.33 
+- Compression Ratio (Do Nothing): 2.95
+- Compression Ratio (Reset): 2.95
+- Compression Ratio (Monitor): 2.95
+- Compression Ratio App: 4.41
+
+-----------------------------------------------------------------------------------------------
+
+
+File: code2.txt
+- Original File Size: 56.3 KB
+- LZW: 23.5 KB
+- MyLZW (Do Nothing): 21 KB
+- MyLZW (Reset): 21 KB
+- MyLZW (Monitor): 21 KB
+- Compression App: 14 KB
+- Compression Ratio (LZW): 2.40
+- Compression Ratio (Do Nothing): 2.68
+- Compression Ratio (Reset): 2.68
+- Compression Ratio (Monitor): 2.68
+- Compression Ratio App: 4.02
+
+-----------------------------------------------------------------------------------------------
+
+
+File: edit.exe
+- Original File Size: 230 KB
+- LZW: 244 KB
+- MyLZW (Do Nothing): 153 KB
+- MyLZW (Reset): 149 KB
+- MyLZW (Monitor): 149 KB
+- Compression App: 126 KB
+- Compression Ratio (LZW): 0.94
+- Compression Ratio (Do Nothing): 1.50
+- Compression Ratio (Reset): 1.54
+- Compression Ratio (Monitor): 1.54
+- Compression Ratio App: 1.83
+
+-----------------------------------------------------------------------------------------------
+
+
+File: frosty.jpg
+- Original File Size: 123 KB
+- LZW: 173 KB
+- MyLZW (Do Nothing): 160 KB
+- MyLZW (Reset): 168 KB
+- MyLZW (Monitor): 168 KB
+- Compression App: 124
+- Compression Ratio (LZW): 0.71
+- Compression Ratio (Do Nothing): 0.77
+- Compression Ratio (Reset): 0.73
+- Compression Ratio (Monitor): 0.73
+- Compression Ratio App: 0.99
+
+-----------------------------------------------------------------------------------------------
+
+
+File: gone_fishing.bmp
+- Original File Size: 16.9 KB
+- LZW: 9 KB
+- MyLZW (Do Nothing): 9 KB
+- MyLZW (Reset): 9 KB
+- MyLZW (Monitor): 9 KB
+- Compression App: 9 KB
+- Compression Ratio (LZW): 1.88
+- Compression Ratio (Do Nothing): 1.88
+- Compression Ratio (Reset): 1.88
+- Compression Ratio (Monitor): 1.88
+- Compression Ratio App: 1.88 
+
+-----------------------------------------------------------------------------------------------
+
+
+File: large.txt
+- Original File Size: 1.16 MB
+- LZW: 591 KB
+- MyLZW (Do Nothing): 491 KB
+- MyLZW (Reset): 516 KB
+- MyLZW (Monitor): 491 KB
+- Compression App: 491
+- Compression Ratio (LZW): 1.72
+- Compression Ratio (Do Nothing): 2.07
+- Compression Ratio (Reset): 1.97
+- Compression Ratio (Monitor): 2.07
+- Compression Ratio App: 1.72
+
+-----------------------------------------------------------------------------------------------
+
+
+File: Lego-big.gif
+- Original File Size: 91 KB
+- LZW: 125 KB
+- MyLZW (Do Nothing): 120 KB
+- MyLZW (Reset): 120 KB
+- MyLZW (Monitor): 120 KB
+- Compression App: 91 kB
+- Compression Ratio (LZW): 0.73
+- Compression Ratio (Do Nothing): 0.76
+- Compression Ratio (Reset): 0.76
+- Compression Ratio (Monitor): 0.76
+- Compression Ratio App: 1
+
+-----------------------------------------------------------------------------------------------
+
+
+File: medium.txt
+- Original File Size: 24.8 KB
+- LZW: 13 KB
+- MyLZW (Do Nothing): 13 KB
+- MyLZW (Reset): 13 KB
+- MyLZW (Monitor): 13 KB
+- Compression App: 11 kB
+- Compression Ratio (LZW): 1.91
+- Compression Ratio (Do Nothing): 1.91
+- Compression Ratio (Reset): 1.91
+- Compression Ratio (Monitor): 1.91
+- Compression Ratio App: 2.54
+
+-----------------------------------------------------------------------------------------------
+
+
+File: texts.tar
+- Original File Size: 1.31 MB
+- LZW: 988 KB
+- MyLZW (Do Nothing): 584 KB
+- MyLZW (Reset): 577 KB
+- MyLZW (Monitor): 584 KB
+- Compression App: 531
+- Compression Ratio (LZW): 1.33
+- Compression Ratio (Do Nothing): 2.24
+- Compression Ratio (Reset): 2.27
+- Compression Ratio (Monitor): 2.24 
+- Compression Ratio App: 2.47
+-----------------------------------------------------------------------------------------------
+
+
+File: wacky.bmp
+- Original File Size: 900 KB
+- LZW: 4.2 KB
+- MyLZW (Do Nothing): 4 KB
+- MyLZW (Reset): 4 KB
+- MyLZW (Monitor): 4 KB
+- Compression App: 4 KB
+- Compression Ratio (LZW): 214.29
+- Compression Ratio (Do Nothing): 225
+- Compression Ratio (Reset): 225
+- Compression Ratio (Monitor): 225
+- Compression Ratio App: 225 
+
+-----------------------------------------------------------------------------------------------
+
+
+File: winnt256.bmp
+- Original File Size: 154 KB
+- LZW: 155 KB
+- MyLZW (Do Nothing): 62 KB
+- MyLZW (Reset): 62 KB
+- MyLZW (Monitor): 62 KB
+- Compression App: 49 KB
+- Compression Ratio (LZW): 0.99
+- Compression Ratio (Do Nothing): 2.48
+- Compression Ratio (Reset): 2.48
+- Compression Ratio (Monitor): 2.48
+- Compression Ratio App: 3.14
